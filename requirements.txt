@@ -1,2 +1,12 @@
-ipykernel
+pykernel
 python-dotenv
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+flask
+requests
+joblib
+pandas-profiling
+
